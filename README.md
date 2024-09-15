@@ -1,6 +1,6 @@
 
 # Issue tracker
-Here we can issues for 95 Main St and 97 Main St
+Here we can track issues for 95 Main St and 97 Main St
 
 On the issues tab you can create, edit, comment upon or close issues. The issues are always preserved, even if hidden from view once closed.
 
